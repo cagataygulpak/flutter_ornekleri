@@ -1,0 +1,49 @@
+[
+    {
+        "name" : "Çağatay" ,
+        "mesajSayisi" : 2 , 
+        "resimPath" : "https://picsum.photos/200/300",
+        "mesaj" : "I am doing my homework"
+    },
+    {
+        "name" : "Saadet" ,
+        "mesajSayisi" : 0, 
+        "resimPath" : "https://www.thedesignwork.com/wp-content/uploads/2011/10/Random-Pictures-of-Conceptual-and-Creative-Ideas-02.jpg?w=640",
+        "mesaj" : "What are you doing?"
+    },
+    {
+        "name" : "Oğuzhan" ,
+        "mesajSayisi" : 7 , 
+        "resimPath" : "https://image.shutterstock.com/image-photo/surreal-concept-roll-world-dice-260nw-1356798002.jpg",
+        "mesaj" : "you have to do this own yourself because you need to be improved"
+    },
+    {
+        "name" : "Ali" ,
+        "mesajSayisi" : 12 , 
+        "resimPath" : "https://s26552.pcdn.co/wp-content/uploads/2022/02/dc_neighborhood_news-2.jpg",
+        "mesaj" : "I am doing my homework"
+    },{
+        "name" : "Ahmet" ,
+        "mesajSayisi" : 3 , 
+        "resimPath" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRaGh-0bWaBIhLrdvi07yq-trgR6CFQPmeQ&usqp=CAU",
+        "mesaj" : "I am doing my homework"
+    },
+    {
+        "name" : "Ulutan" ,
+        "mesajSayisi" : 20 , 
+        "resimPath" : "https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg",
+        "mesaj" : "I am doing my homework"
+    },
+    {
+        "name" : "Anonim" ,
+        "mesajSayisi" : 5 , 
+        "resimPath" : "https://media.istockphoto.com/photos/young-woman-sitting-on-edge-looks-out-at-view-picture-id1065043970?k=20&m=1065043970&s=170667a&w=0&h=lLM9zueADRP1smdo0LIeRB5nPTITPdvgCdRh7QYvQhA=",
+        "mesaj" : "I am doing my homework"
+    },
+    {
+        "name" : "Mehmet" ,
+        "mesajSayisi" : 0 , 
+        "resimPath" : "https://media.istockphoto.com/photos/mountain-landscape-picture-id1170655400?k=20&m=1170655400&s=612x612&w=0&h=Cz9OZXmfgtjEb-0yAkSG1j_Yb182jlUfuTuuia3LGQQ=",
+        "mesaj" : "I am doing my homework"
+    }
+]
